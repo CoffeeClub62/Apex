@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500;700&family=Poppins:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Anonymous+Pro');
+
+body {
+    color: #fff;
+    background-color: #202020;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+hr {
+    border-top: 3px solid rgb(168, 168, 168);
+    border-bottom: 3px solid rgb(168, 168, 168);
+    border-radius: 7px;
+    width: 40%;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+p {
+    font-size: 20px;
+    font-family: 'Anonymous Pro', monospace;
+    transition: all 1s;
+}
+
+p:hover {
+    color:rgb(255, 64, 64);
+}
